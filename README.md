@@ -1,4 +1,4 @@
-##**Treść zadania:
+H2 Treść zadania:
 
 Przetestuj podstawowe funkcjonalności strony https://www.gov.pl/. Napisz testy automatyczne, które sprawdzą czy strona ładuje się prawidłowo oraz czy podstawowa funkcjonalność działa i wyświetla się prawidłowo.
 
