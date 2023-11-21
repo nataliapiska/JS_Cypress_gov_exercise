@@ -20,7 +20,7 @@ describe('exlabs_zadanie', () => {
             .click().type('dowód osobisty')
             cy.get('[class="search-form"]').find('[type="submit"]').click()
 
-            cy.get('[class="search__result search-results"]')
+            cy.get('[class="search-results__list result-list"]')
         })
 
         it('search bar-negative', () => {
