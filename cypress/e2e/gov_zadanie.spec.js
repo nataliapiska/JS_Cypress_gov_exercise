@@ -1,4 +1,4 @@
-describe('exlabs_zadanie', () => {
+describe('exercise_gov_pl', () => {
     
     describe('open main page', () => {
         it('open page', () => {
